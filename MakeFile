@@ -1,2 +1,0 @@
-build:
-        mvn clean install && docker build -it bharatmicrosystems/springboot-hello-world
